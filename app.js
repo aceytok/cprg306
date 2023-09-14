@@ -12,3 +12,9 @@ console.log(z);
 console.log(msg);
 console.log("CPRG306");
 
+function add(x, y) {
+
+    return x + y;
+}
+
+console.log(add(4, 3));
